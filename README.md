@@ -1,1 +1,2 @@
 # roll-playing
+This game allows the user to create their own custom dice for use in the bedroom. sign in, choose from various activities, create, save, and edit n-sided dice, and then roll them when you're looking to spice things up.
